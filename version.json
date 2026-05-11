@@ -1,6 +1,6 @@
 {
-  "latest_version": 2,
-  "min_version": 1,
+  "latest_version": 1.0,
+  "min_version": 1.0,
   "download_url": "https://gotplx.github.io/hasabati.apk",
   "force_update": false ,
   "changelog": "الإصدار الأول من تطبيق حسباتي"
